@@ -1,16 +1,22 @@
-### Hi there 👋
+![g1](https://user-images.githubusercontent.com/59721315/115292094-ed30dc00-a12b-11eb-8c3a-4c4a7395b59e.png)
 
-<!--
-**agustinamestre/agustinamestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi there! I'm Agustina 😄 
 
-Here are some ideas to get you started:
+I'm a programming student and I'm specializing in front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills 🖥
+
+- JavaScript ES6
+- HTML5
+- CSS3
+- SASS
+- React
+
+Thank you for taking the time to view my GitHub Profile 🥰
+
+### Get in touch 📲
+
+- LinkedIn: [https://www.linkedin.com/in/agustinamestre/](https://www.linkedin.com/in/agustinamestre/)
+- E-mail: agustinamestre@gmail.com
+
+![g1](https://user-images.githubusercontent.com/59721315/115292094-ed30dc00-a12b-11eb-8c3a-4c4a7395b59e.png)
