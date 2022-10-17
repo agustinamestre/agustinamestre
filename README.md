@@ -6,11 +6,13 @@ I'm a programming student and I'm specializing in front-end development.
 
 ### My skills 🖥
 
-- JavaScript ES6
-- HTML5
-- CSS3
+- JavaScript 
+- TypeScript
 - SASS
-- React
+- ReactJs
+- NodeJs
+- SQL
+- Docker
 
 Thank you for taking the time to view my GitHub Profile 🥰
 
