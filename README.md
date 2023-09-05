@@ -2,13 +2,15 @@
 
   # Hi there! I'm Agustina 😄 
 
-I'm a programming student and I'm specializing in front-end development.
+I'm a developer currently working with Java, Spring Boot, and Angular.
 
 ### My skills 🖥
 
-- JavaScript 
+- Java
+- Spring Boot
+- Angular
+- JavaScript
 - TypeScript
-- SASS
 - ReactJs
 - NodeJs
 - SQL
